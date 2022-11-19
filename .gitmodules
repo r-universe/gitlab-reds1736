@@ -3,3 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rciplot"]
+	path = rciplot
+	url = https://gitlab.com/reds1736/rciplot
+	shallow = true
+	subdir = rciplot
+	registered = true
